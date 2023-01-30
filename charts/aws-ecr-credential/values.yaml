@@ -11,6 +11,6 @@ aws:
   accessKeyId: ""        # base64
   secretAccessKey: ""    # base64
 
-jobImage: architectminds/aws-kubectl
-jobImageTag: 1.1
+jobImage: ghcr.io/kurikenji/aws-kubectl
+jobImageTag: 1.25.0
 
